@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://stsg.github.io
+title: stsg
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
