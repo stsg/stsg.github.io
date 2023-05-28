@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/stsg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gobunov.com
+  * I am stsg (https://keybase.io/stsg) on keybase.
+  * I have a public key ASDDl3AzRYkHQN9lELwq7bgOTwpDAv38NfDHIomXx6mvAwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012055b723589c907d0817cd49649d716a9bb2287ab29e1cf1410b37c516920de1a20a",
+      "host": "keybase.io",
+      "kid": "0120c397703345890740df6510bc2aedb80e4f0a4302fdfc35f0c7228997c7a9af030a",
+      "uid": "a98a6326462d142e3c703aa5ab38c719",
+      "username": "stsg"
+    },
+    "merkle_root": {
+      "ctime": 1641282846,
+      "hash": "e45fd2e374e4ec06987e49aa242be0f6bb149049a187a880993a270c571dfea90187315c9beda05dffb8994a8ba5b8f6ee7fdd4f2eaa9ea2c750c6b70d919b88",
+      "hash_meta": "615277690f2ab0d86097d56c0dfcae3b82a1b3f535fd3561d80cece3107a05f3",
+      "seqno": 21556376
+    },
+    "service": {
+      "entropy": "r/Q9NnbgUe26DJktyRZvx9I+",
+      "hostname": "gobunov.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1641282912,
+  "expire_in": 504576000,
+  "prev": "fd15e5ff52b8d3652972646ca552ca7734a9a1e5e30422ecc49d38c14af2bb48",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgw5dwM0WJB0DfZRC8Ku24Dk8KQwL9/DXwxyKJl8eprwMKp3BheWxvYWTESpcCD8Qg/RXl/1K402UpcmRspVLKdzSpoeXjBCLsxJ04wUryu0jEIJe2Nq/UqTuePhEO3HY4kex2LEMxc5mlFyFKHnJxR6rHAgHCo3NpZ8RA7+PA83VEMXA9zjY2eSRfduMZef32nTRxxikkjdmj5W436LH8DvarWC3HGvhB1ZlmyHTbq/xYekYO1EArcqxUAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDKVws6uHYwU8Wmjtf2KdiZzLaXU6Kc34ih5lF/arWxJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stsg
+
+==================================================================

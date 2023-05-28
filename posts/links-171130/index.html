@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Links 17-11-30 - Stanislav Gobunov</title><meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:title" content="Links 17-11-30" />
+<meta property="og:description" content="Security WTF Apple?
+Source
+A serious bug in macOS High Sierra lets anyone log into an admin account using the username &ldquo;root&rdquo; with no password. This works when attempting to access an administrator&rsquo;s account on an unlocked Mac, and it also provides access at the login screen of a locked Mac.
+To replicate, follow these steps from any kind of Mac account, admin or guest:
+Open System Preferences.
+Choose Users &amp; Groups." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://gobunov.com/posts/links-171130/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2017-11-30T00:00:00+00:00" />
+<meta property="article:modified_time" content="2017-11-30T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Links 17-11-30"/>
+<meta name="twitter:description" content="Security WTF Apple?
+Source
+A serious bug in macOS High Sierra lets anyone log into an admin account using the username &ldquo;root&rdquo; with no password. This works when attempting to access an administrator&rsquo;s account on an unlocked Mac, and it also provides access at the login screen of a locked Mac.
+To replicate, follow these steps from any kind of Mac account, admin or guest:
+Open System Preferences.
+Choose Users &amp; Groups."/>
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:500,100,300"
+        rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+
+    <script src="/js/feather.min.js"></script>
+    <script src="/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper post">
+		<div class="header">
+	<h1 class="site-title">Stanislav Gobunov</h1>
+	<div class="site-description"><h2>Programmer and DevOps Engineer</h2><nav class="nav social">
+			<ul class="flat"><a href="https://github.com/stsg/" title="Github"><i data-feather="github"></i></a><a href="https://twitter.com/sgobunov/" title="Twitter"><i data-feather="twitter"></i></a><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/home">Home</a>
+			</li>
+			
+			<li>
+				<a href="/about">About</a>
+			</li>
+			
+			<li>
+				<a href="/projects">Projects</a>
+			</li>
+			
+			<li>
+				<a href="/posts">Posts</a>
+			</li>
+			
+			<li>
+				<a href="/cv">Resume</a>
+			</li>
+			
+			<li>
+				<a href="/search">Search</a>
+			</li>
+			
+			<li>
+				<a href="/tags">Tags</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post-header">
+			<h1 class="title">Links 17-11-30</h1>
+			<div class="meta">Posted at &mdash; Nov 30, 2017</div>
+		</div>
+
+		<div class="markdown">
+			<h3 id="security">Security</h3>
+<hr>
+<p><strong>WTF Apple?</strong></p>
+<p><a href="http://www.maintain.se/blog/" title="Permalink to Cocktail Blog">Source</a></p>
+<p>A serious bug in macOS High Sierra lets anyone log into an admin account using
+the username &ldquo;root&rdquo; with no password. This works when attempting to access an
+administrator&rsquo;s account on an unlocked Mac, and it also provides access at the
+login screen of a locked Mac.</p>
+<p>To replicate, follow these steps from any kind of Mac account, admin or guest:</p>
+<ol>
+<li>
+<p>Open System Preferences.</p>
+</li>
+<li>
+<p>Choose Users &amp; Groups.</p>
+</li>
+<li>
+<p>Click the lock to make changes.</p>
+</li>
+<li>
+<p>Type &ldquo;root&rdquo; in the username field.</p>
+</li>
+<li>
+<p>Move the mouse to the Password field and click there, but leave it blank.</p>
+</li>
+<li>
+<p>Click unlock, and it should allow you full access to add a new administrator
+account.</p>
+</li>
+</ol>
+<p>At the login screen, you can also use the root trick to gain access to a Mac
+after the feature has been enabled in System Preferences. At the login screen,
+click &ldquo;Other,&rdquo; and then enter &ldquo;root&rdquo; again with no password. This allows for
+admin-level access directly from the locked login screen, with the account able
+to see everything on the computer.</p>
+<p>It appears that this bug is present in the current version of macOS High Sierra
+10.13.1, and the macOS High Sierra 10.13.2 beta that is in testing at the
+moment. It&rsquo;s not clear how such a significant bug got past Apple, but it&rsquo;s
+likely this is something that the company will immediately address.</p>
+<p>Until the issue is fixed, you can enable a root account with a password to
+prevent the bug from working.</p>
+<p><img src="/img/content/highsierrabug.png" alt="bug"></p>
+<p>Upd: <a href="https://support.apple.com/en-us/HT208315">fixed</a></p>
+<hr>
+<p>The <a href="https://motherboard.vice.com/en_us/article/a37m4g/the-motherboard-guide-to-avoiding-state-surveillance-privacy-guide">Motherboard</a>
+Guide to Avoiding State Surveillance</p>
+<h3 id="text-editors">Text Editors</h3>
+<p><a href="https://www.codementor.io/mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7">Best Text Editor?</a>
+Atom vs Sublime vs Visual Studio Code vs Vim.</p>
+<h3 id="misc">Misc</h3>
+<p><a href="http://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/">Use Midnight Commander like a pro.</a></p>
+
+		</div><hr>
+
+</div>
+	<div class="footer wrapper">
+    <nav class="nav">
+        <div>Copyright © 2017-2022 Stanislav Gobunov</div>
+    </nav>
+</div>
+
+</body>
+</html>

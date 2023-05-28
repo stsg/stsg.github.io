@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Stanislav Gobunov</title>
+    <link>https://gobunov.com/tags/about/</link>
+    <description>Recent content in about on Stanislav Gobunov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gobunov.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://gobunov.com/cv/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/cv/</guid>
+      <description>Stanislav Gobunov ​	Moscow, Russia
+​	stas@gobunov.com
+​	gobunov.com
+Position Head of Developers Head of Operations Teamlead Developer Expert Skills ​	Extensive experience in IT, including system programming, network programming, consulting, system administration, project management and leadership team. Broad-minded in IT. Knowledge and understanding of current trends.
+​	Understanding the principles of design and implementation of large corporate systems, information security systems. Knowledge of the principles and ways to manage information systems.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://gobunov.com/cv_ru/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/cv_ru/</guid>
+      <description>Станислав Гобунов Москва, Россия
+stas@gobunov.com
+gobunov.com
+Позиция Руководитель отдела разработчиков Руководитель отдела поддержки DevOps Разработчик/Программист Эксперт/Консультант Teamlead Навыки ​	Обширный опыт в ИТ, включая поддержку пользователей, системное администрирование, системное программирование, сетевое программирование, консалтинг, управление проектами и руководства командой. Широкий кругозор в ИТ. Знание и понимание современных тенденций.
+​	Опыт в разработке и реализации средних и крупных программных и технических систем. Опыт руководства группой, отделом разработчиков, технических специалистов. Серьезный консалтинговый опыт. Опыт разработки корпоративных проектов по информационной безопасности и распределенным информационным системам.</description>
+    </item>
+    
+    <item>
+      <title>/</title>
+      <link>https://gobunov.com/home/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/home/</guid>
+      <description>I am certified computer professional, programmer and a DevOps specialist. Feel free to contact.
+See about page for more information.
+See posts page for recent posts.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gobunov.com/about/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/about/</guid>
+      <description>I am certified computer professional, programmer and a DevOps specialist.
+Broad experience in IT, ranging from providing user support, system administration, systems programming, network programming to consulting, project and people management.
+Wide experience in a analysis, design and programming in various medium to large scale environments. Team leadership experience. Significant consulting experience. Enterprise-wide projects on information security and information systems experience.
+Understanding of enterprise-wide information systems principles and implementation practices. Understanding of information systems security principles and implementation methods.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://gobunov.com/projects/</link>
+      <pubDate>Thu, 05 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/projects/</guid>
+      <description>Mac OSX port of FBReader Experimental build of 0.10.x branch
+Experimental build of latest version 0.10.7 released. Compiled with Qt version 4.5, fribidi version 0.9.10, linebreak version 1.1.
+Now you can access SVN repository of port source on GoogleCode and GitHub.
+Port of latest version 0.8.17
+Great news! Port of latest version 0.8.17 released. No installation package, no need of external libraries now. Standart Mac OS X application. PowerPC support added.</description>
+    </item>
+    
+  </channel>
+</rss>

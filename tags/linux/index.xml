@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Stanislav Gobunov</title>
+    <link>https://gobunov.com/tags/linux/</link>
+    <description>Recent content in linux on Stanislav Gobunov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://gobunov.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links 18-09-29</title>
+      <link>https://gobunov.com/posts/links-180929/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/posts/links-180929/</guid>
+      <description>Dev A crash course on Serverless with AWS - Image resize on-the-fly with Lambda and S3 &amp;ndash; Handling large images has always been a pain&amp;hellip;
+PyQt5 tutorial &amp;ndash; Learn how you can create a Python GUI in 2018.
+How Dropbox rolled out one of the largest Python 3 migrations ever &amp;ndash; Dropbox is one of the most popular applications in the world, and much of it is written in Python. Three years ago, the company began moving to Python 3 and has recently finished the migration.</description>
+    </item>
+    
+    <item>
+      <title>Links 18-09-23</title>
+      <link>https://gobunov.com/posts/links-180923/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/posts/links-180923/</guid>
+      <description>Dev 50 Python Project &amp;ndash; 50 Popular Python open-source projects on GitHub in 2018. Ops [3 open source log aggregation tools](https://opensource.com/article/18/9/ open-source-log-aggregation-tools) &amp;ndash; Log aggregation is a valuable tool that can help with troubleshooting and other use cases involving event data. Dan Barker takes you through some key considerations and three top tools for log aggregation to help you get started. [Drone: The first open source container-native CI/CD software](https:// thenewstack.io/drone-io-a-containerized-ci-cd-system-for-cloud-native-development) &amp;ndash; Drone is a containerized CI/CD system for cloud-native development, used at companies like eBay and the New York Times.</description>
+    </item>
+    
+    <item>
+      <title>Links 18-09-09</title>
+      <link>https://gobunov.com/posts/links-180909/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/posts/links-180909/</guid>
+      <description>Dev A curated Python reading list &amp;ndash; There&amp;rsquo;s nothing like losing yourself in a good book about your favorite programming language. Whether you&amp;rsquo;re a beginner or a pro, Jen Wike Huger has compiled a list of 18 must-reads.
+How, when, and why to use WebAssembly &amp;ndash; JavaScript is not ideal for every task. That&amp;rsquo;s where WebAssembly comes in.
+Here are tricks and features for Python Pandas that you may not know.</description>
+    </item>
+    
+    <item>
+      <title>Links 18-08-31</title>
+      <link>https://gobunov.com/posts/links-180831/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/posts/links-180831/</guid>
+      <description>Dev Coder IDE - The Next-gen IDE on the cloud &amp;ndash; a quick review. [The Journey to AWS Certification.](https://dev.to/helenanders26/ the-journey-to-aws-certification-1bnn) [New Playground and Cheatsheet for Learning Python](https://dev.to/trekhleb/ new-playground-and-cheatsheet-for-learning-python-1k8p) &amp;ndash; Collection of Python scripts that are split by topics with comments. 20 [Python Programming Interview Questions](http://www.techbeamers.com/ python-programming-interview-questions-with-answers/) Programmers Should Know. Ops [Linux container deep dive.](http://pierrchen.blogspot.com/2018/08/ understand-container-index.html) Misc Oni &amp;ndash; is a new kind of editor, focused on maximizing productivity - combining modal editing with features you expect in modern editors.</description>
+    </item>
+    
+    <item>
+      <title>Links 18-08-24</title>
+      <link>https://gobunov.com/posts/links-180824/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/posts/links-180824/</guid>
+      <description>Dev [Be a Better Programmer with these 45 Mathematics Courses](https://hackernoon.com/ be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2) &amp;ndash; The Ultimate Course and Book list to be an expert in Mathematics and Programming. [Creating a Chrome extension in 2018: The good, the bad and the meh](https:// hackernoon.com/creating-a-chrome-extension-in-2018-the-good-the-bad-and-the-meh-8efcf6d28322) &amp;ndash; It turns out Chrome extension development is almost like real web development, but with a weird dash of quasi embedded development mixed in. [Shipping PWAs as Chrome Extensions](https://dev.to/samthor/ shipping-pwas-as-chrome-extensions-3l5c) &amp;ndash;incredibly simple (basically all that&amp;rsquo;s left is building a small embedder).</description>
+    </item>
+    
+  </channel>
+</rss>

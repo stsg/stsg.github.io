@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>job on Stanislav Gobunov</title>
+    <link>https://gobunov.com/tags/job/</link>
+    <description>Recent content in job on Stanislav Gobunov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gobunov.com/tags/job/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://gobunov.com/cv/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/cv/</guid>
+      <description>Stanislav Gobunov ​	Moscow, Russia
+​	stas@gobunov.com
+​	gobunov.com
+Position Head of Developers Head of Operations Teamlead Developer Expert Skills ​	Extensive experience in IT, including system programming, network programming, consulting, system administration, project management and leadership team. Broad-minded in IT. Knowledge and understanding of current trends.
+​	Understanding the principles of design and implementation of large corporate systems, information security systems. Knowledge of the principles and ways to manage information systems.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://gobunov.com/cv_ru/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gobunov.com/cv_ru/</guid>
+      <description>Станислав Гобунов Москва, Россия
+stas@gobunov.com
+gobunov.com
+Позиция Руководитель отдела разработчиков Руководитель отдела поддержки DevOps Разработчик/Программист Эксперт/Консультант Teamlead Навыки ​	Обширный опыт в ИТ, включая поддержку пользователей, системное администрирование, системное программирование, сетевое программирование, консалтинг, управление проектами и руководства командой. Широкий кругозор в ИТ. Знание и понимание современных тенденций.
+​	Опыт в разработке и реализации средних и крупных программных и технических систем. Опыт руководства группой, отделом разработчиков, технических специалистов. Серьезный консалтинговый опыт. Опыт разработки корпоративных проектов по информационной безопасности и распределенным информационным системам.</description>
+    </item>
+    
+  </channel>
+</rss>
