@@ -1,359 +1,257 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cli on Stanislav Gobunov</title>
+    <title>Cli on Stanislav Gobunov</title>
     <link>https://gobunov.com/tags/cli/</link>
-    <description>Recent content in cli on Stanislav Gobunov</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Cli on Stanislav Gobunov</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gobunov.com/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gobunov.com/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links 24-01-07</title>
+      <link>https://gobunov.com/posts/links-240124/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gobunov.com/posts/links-240124/</guid>
+      <description>Dev Role of algorithms &amp;ndash; Algorithms are a useful skill not because you use it at work every day, but because they train you to be better at particular aspects of software engineering.&#xA;Database Fundamentals &amp;ndash; basically a short summary of Designing Data Intensive Applications and Database Internals, with a focus on the fundamental problems a database engineer thinks about in the shower.&#xA;Go 1.22: Interactive release notes &amp;ndash; A useful run down of the changes in the upcoming Go 1.</description>
+    </item>
+    <item>
+      <title>Links 23-07-06</title>
+      <link>https://gobunov.com/posts/links-230706/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://gobunov.com/posts/links-230706/</guid>
+      <description>Dev Advanced Python Tips for Development &amp;ndash; explore 15 advanced Python tips that can help improve your development workflow and make your code more efficient.&#xA;Postgres: The Graph Database You Didn&amp;rsquo;t Know You Had &amp;ndash; PostgreSQL can be used for a wide range of sometimes surprising database needs. This post explains how to store graph data in Posgtres.&#xA;Ops Replace dockerfile with dagger &amp;ndash; Dockerfile is ubiquitous, but if you’d rather write container build scripts in other languages then Dagger allows that and lots more.</description>
+    </item>
+    <item>
+      <title>Links 23-06-07</title>
+      <link>https://gobunov.com/posts/links-230607/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://gobunov.com/posts/links-230607/</guid>
+      <description>Dev Why SQLite is so great for the edge &amp;ndash; SQLite has always seen use for interesting use cases, this post looks at why it’s particularly useful for edge applications, and describes a new open source fork aimed at building a contributor community.&#xA;10 Books to Improve Coding Skill in 2023.&#xA;Big O Notation: A Simple Explanation With Examples &amp;ndash; In this article, we’ll cover the basics of Big O notation, why it is used and how describe the time and space complexity of algorithms with an example.</description>
+    </item>
     <item>
       <title>Links 23-05-05</title>
       <link>https://gobunov.com/posts/links-230505/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-230505/</guid>
-      <description>Dev ko &amp;ndash; a simple, fast container image builder for Go applications.
-Codon &amp;ndash; Codon is a high-performance Python compiler that compiles Python code to native machine code without any runtime overhead.
-6 Ways To Boost the Performance of Your Go Applications &amp;ndash; Optimizing your Go applications.
-Go&amp;rsquo;s Error Handling Is a Form of Storytelling.
-The Tao of Go &amp;ndash; What is the Tao of Go, and how can we work with it, like a surfer going with the waves instead of struggling against them?</description>
+      <description>Dev ko &amp;ndash; a simple, fast container image builder for Go applications.&#xA;Codon &amp;ndash; Codon is a high-performance Python compiler that compiles Python code to native machine code without any runtime overhead.&#xA;6 Ways To Boost the Performance of Your Go Applications &amp;ndash; Optimizing your Go applications.&#xA;Go&amp;rsquo;s Error Handling Is a Form of Storytelling.&#xA;The Tao of Go &amp;ndash; What is the Tao of Go, and how can we work with it, like a surfer going with the waves instead of struggling against them?</description>
     </item>
-    
     <item>
       <title>Links 23-03-23</title>
       <link>https://gobunov.com/posts/links-230323/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-230323/</guid>
-      <description>Dev Build Server With Go Under 10 minutes.
-free-for.dev &amp;ndash; a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
-A Practical Guide to Concurrency in Golang — Key Terms and Examples &amp;ndash; concurrency in Golang with an example of sentiment data processing using goroutines, channels, waitgroups, and many more terms.
-Software and Architectural Design Patterns &amp;ndash; A curated list of software and architecture related design patterns.</description>
+      <description>Dev Build Server With Go Under 10 minutes.&#xA;free-for.dev &amp;ndash; a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.&#xA;A Practical Guide to Concurrency in Golang — Key Terms and Examples &amp;ndash; concurrency in Golang with an example of sentiment data processing using goroutines, channels, waitgroups, and many more terms.&#xA;Software and Architectural Design Patterns &amp;ndash; A curated list of software and architecture related design patterns.</description>
     </item>
-    
     <item>
       <title>Links 23-02-23</title>
       <link>https://gobunov.com/posts/links-230223/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-230223/</guid>
-      <description>Dev Go Errors Cheat Sheet 2022 &amp;ndash; discussion about the different types of errors in Go, including Sentinel Errors and Error Types, and how to compare errors using the errors.Is and errors.As functions.
-Rust vs Go in 2023 &amp;ndash; Which is better, Rust or Go? Go or Rust? Which language should you choose for your next project in 2023, and why?
-Building a URL Shortener Using Go and Sqlite &amp;ndash; Ever wondered how a URL shortener works?</description>
+      <description>Dev Go Errors Cheat Sheet 2022 &amp;ndash; discussion about the different types of errors in Go, including Sentinel Errors and Error Types, and how to compare errors using the errors.Is and errors.As functions.&#xA;Rust vs Go in 2023 &amp;ndash; Which is better, Rust or Go? Go or Rust? Which language should you choose for your next project in 2023, and why?&#xA;Building a URL Shortener Using Go and Sqlite &amp;ndash; Ever wondered how a URL shortener works?</description>
     </item>
-    
     <item>
       <title>Links 23-01-23</title>
       <link>https://gobunov.com/posts/links-230123/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-230123/</guid>
-      <description>Dev A Guide to the Most Popular Types of APIs: REST, SOAP, GraphQL, and gRPC.
-REST API vs GraphQL.
-Monoliths vs Microservices vs Serverless &amp;ndash; the tradeoffs that each option presents.
-Textual &amp;ndash; a Python framework for creating interactive applications that run in your terminal.
-OOP in Go &amp;ndash; How to use Object Oriented Programming in Go.
-Go: Arrays and Slices, a deep dive &amp;ndash; In this article we&amp;rsquo;re going to discuss all there is to know about arrays and slices in Go.</description>
+      <description>Dev A Guide to the Most Popular Types of APIs: REST, SOAP, GraphQL, and gRPC.&#xA;REST API vs GraphQL.&#xA;Monoliths vs Microservices vs Serverless &amp;ndash; the tradeoffs that each option presents.&#xA;Textual &amp;ndash; a Python framework for creating interactive applications that run in your terminal.&#xA;OOP in Go &amp;ndash; How to use Object Oriented Programming in Go.&#xA;Go: Arrays and Slices, a deep dive &amp;ndash; In this article we&amp;rsquo;re going to discuss all there is to know about arrays and slices in Go.</description>
     </item>
-    
     <item>
       <title>Links 22-11-22</title>
       <link>https://gobunov.com/posts/links-221122/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-221122/</guid>
-      <description>Dev Restful API with Golang practical approach &amp;ndash; tutorial for creating a Restful API with a practical approach of clean architecture and native Golang without any frameworks.
-How I’m a Productive Programmer With a Memory of a Fruit Fly &amp;ndash; Programming got vastly more varied compared to when I started dabbling in AmigaBASIC in the mid-1990s. Back then you could buy one very big book about the computer you’re programming and were 99% there.</description>
+      <description>Dev Restful API with Golang practical approach &amp;ndash; tutorial for creating a Restful API with a practical approach of clean architecture and native Golang without any frameworks.&#xA;How I’m a Productive Programmer With a Memory of a Fruit Fly &amp;ndash; Programming got vastly more varied compared to when I started dabbling in AmigaBASIC in the mid-1990s. Back then you could buy one very big book about the computer you’re programming and were 99% there.</description>
     </item>
-    
     <item>
       <title>Links 22-09-22</title>
       <link>https://gobunov.com/posts/links-220922/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-220922/</guid>
-      <description>Dev Aging programmer &amp;ndash; Back in college, they told me that I would start my career writing code, but eventually, I would move to a position where I would ask others to code my designs. To celebrate that this turned out to be completely false, here are some assorted reflections as a 40-year-old programmer that looks back.
-How we reduced our annual server costs by 80% &amp;ndash; Zsot Varga shares how Prerender saved $800k by removing their reliance on AWS and building in-house infrastructure to handle traffic and cached data.</description>
+      <description>Dev Aging programmer &amp;ndash; Back in college, they told me that I would start my career writing code, but eventually, I would move to a position where I would ask others to code my designs. To celebrate that this turned out to be completely false, here are some assorted reflections as a 40-year-old programmer that looks back.&#xA;How we reduced our annual server costs by 80% &amp;ndash; Zsot Varga shares how Prerender saved $800k by removing their reliance on AWS and building in-house infrastructure to handle traffic and cached data.</description>
     </item>
-    
     <item>
       <title>Links 27-07-22</title>
       <link>https://gobunov.com/posts/links-220727/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-220727/</guid>
-      <description>Dev Learn Makefiles With the tastiest examples &amp;ndash; Makefiles are everywhere in DevOps, so it&amp;rsquo;s definitely worth learning about make. This resource starts from quite a one-sided introduction to make (as a build tool for C++ projects), but the rest is full of useful information. Also, looking at make from the angle of a build (i.e., file manipulation) tool could explain many of its quirks.
-How We Halved Go Monorepo CI Build Time &amp;ndash; A detailed post on drastically reducing the build time of a large, complex Go project.</description>
+      <description>Dev Learn Makefiles With the tastiest examples &amp;ndash; Makefiles are everywhere in DevOps, so it&amp;rsquo;s definitely worth learning about make. This resource starts from quite a one-sided introduction to make (as a build tool for C++ projects), but the rest is full of useful information. Also, looking at make from the angle of a build (i.e., file manipulation) tool could explain many of its quirks.&#xA;How We Halved Go Monorepo CI Build Time &amp;ndash; A detailed post on drastically reducing the build time of a large, complex Go project.</description>
     </item>
-    
     <item>
       <title>Links 22-06-22</title>
       <link>https://gobunov.com/posts/links-220622/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-220622/</guid>
-      <description>Dev ugit &amp;ndash; CLI undo git commands.
-forgit &amp;ndash; tool is to help you use git more efficiently. It&amp;rsquo;s lightweight and easy to use.
-How to bootstrap a quality Go backend &amp;ndash; This post will help you choose an HTTP framework, design a scalable folder structure, establish good practices for a test suite, and more.
-Syncing text files between browser and disk using Yjs and the File System Access API &amp;ndash; In this post, we look at the newly introduced File System Access API, which lets the browser read and write files on a computer.</description>
+      <description>Dev ugit &amp;ndash; CLI undo git commands.&#xA;forgit &amp;ndash; tool is to help you use git more efficiently. It&amp;rsquo;s lightweight and easy to use.&#xA;How to bootstrap a quality Go backend &amp;ndash; This post will help you choose an HTTP framework, design a scalable folder structure, establish good practices for a test suite, and more.&#xA;Syncing text files between browser and disk using Yjs and the File System Access API &amp;ndash; In this post, we look at the newly introduced File System Access API, which lets the browser read and write files on a computer.</description>
     </item>
-    
     <item>
       <title>Links 22-05-22</title>
       <link>https://gobunov.com/posts/links-220522/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-220522/</guid>
-      <description>Dev Modern Microprocessors - A 90-Minute Guide! &amp;ndash; Okay, so you&amp;rsquo;re a CS graduate and you did a hardware course as part of your degree, but perhaps that was a few years ago now and you haven&amp;rsquo;t really kept up with the details of processor designs since then.
-Learn Go: The complete course &amp;ndash; Welcome to the course, and thanks for learning Go.
-The Ultimate Guide To Software Engineering &amp;ndash; This article will discuss the skills needed to become an excellent software engineer and how you can learn them.</description>
+      <description>Dev Modern Microprocessors - A 90-Minute Guide! &amp;ndash; Okay, so you&amp;rsquo;re a CS graduate and you did a hardware course as part of your degree, but perhaps that was a few years ago now and you haven&amp;rsquo;t really kept up with the details of processor designs since then.&#xA;Learn Go: The complete course &amp;ndash; Welcome to the course, and thanks for learning Go.&#xA;The Ultimate Guide To Software Engineering &amp;ndash; This article will discuss the skills needed to become an excellent software engineer and how you can learn them.</description>
     </item>
-    
     <item>
       <title>Links 22-03-22</title>
       <link>https://gobunov.com/posts/links-220322/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-220322/</guid>
-      <description>Dev Could Rust be the future of JavaScript infrastructure? &amp;ndash; The Future of JavaScript Tooling.
-Some mistakes Rust doesn’t catch &amp;ndash; When you look at all the combinations of all possible instructions in a programming language, only a tiny fraction are useful programs. Even fewer actually achieve the task you’ve set out to do. So rather than looking at what a programming language can do, perhaps a better way is to look at what it won’t let you do.</description>
+      <description>Dev Could Rust be the future of JavaScript infrastructure? &amp;ndash; The Future of JavaScript Tooling.&#xA;Some mistakes Rust doesn’t catch &amp;ndash; When you look at all the combinations of all possible instructions in a programming language, only a tiny fraction are useful programs. Even fewer actually achieve the task you’ve set out to do. So rather than looking at what a programming language can do, perhaps a better way is to look at what it won’t let you do.</description>
     </item>
-    
     <item>
       <title>Links 22-02-22</title>
       <link>https://gobunov.com/posts/links-220222/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-220222/</guid>
-      <description>Dev Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-GPS &amp;ndash; Global Positioning System is, without a doubt, one of the most useful inventions of the late 20th century. It made it significantly easier for ships, airplanes, cars, and hikers to figure out where they are with high degree of accuracy.
-How we saved 70K cores across 30 mission-critical services &amp;ndash; As part of Uber engineering’s wide efforts to reach profitability, recently our team was focused on reducing cost of compute capacity by improving efficiency.</description>
+      <description>Dev Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.&#xA;GPS &amp;ndash; Global Positioning System is, without a doubt, one of the most useful inventions of the late 20th century. It made it significantly easier for ships, airplanes, cars, and hikers to figure out where they are with high degree of accuracy.&#xA;How we saved 70K cores across 30 mission-critical services &amp;ndash; As part of Uber engineering’s wide efforts to reach profitability, recently our team was focused on reducing cost of compute capacity by improving efficiency.</description>
     </item>
-    
     <item>
       <title>Links 21-12-22</title>
       <link>https://gobunov.com/posts/links-211222/</link>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-211222/</guid>
       <description>Dev Zinc &amp;ndash; Zinc is a search engine that does full text indexing. It is a lightweight alternative to Elasticsearch and runs in less than 100 MB of RAM. It uses bluge as the underlying indexing library. Ops Computer networking basics every developer should know &amp;ndash; As a software engineer, I need to deal with networking every now and then - be it configuring a SOHO network, setting up container networking, or troubleshooting connectivity between servers in a data center.</description>
     </item>
-    
     <item>
       <title>Links 21-11-11</title>
       <link>https://gobunov.com/posts/links-211111/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-211111/</guid>
-      <description>Dev Scripting languages of the future &amp;ndash; Some thoughts about the future of scripting languages, interesting given this is where much of the code operations teams write resides.
-Learn Golang by building a fintech banking app.
-Awesome Learning Resources 1.
-Awesome Learning Resources 2.
-Learn to code.
-ProjectLearn: Project Based Learning.
-Structured logging in Python &amp;ndash; A how to on setting up structured logging for Python applications.
-Create a Restful API with Golang from scratch &amp;ndash; Learn how to structure an API with Golang, dockerize it, setup VSCode debugger and improve your knowledge of the language.</description>
+      <description>Dev Scripting languages of the future &amp;ndash; Some thoughts about the future of scripting languages, interesting given this is where much of the code operations teams write resides.&#xA;Learn Golang by building a fintech banking app.&#xA;Awesome Learning Resources 1.&#xA;Awesome Learning Resources 2.&#xA;Learn to code.&#xA;ProjectLearn: Project Based Learning.&#xA;Structured logging in Python &amp;ndash; A how to on setting up structured logging for Python applications.&#xA;Create a Restful API with Golang from scratch &amp;ndash; Learn how to structure an API with Golang, dockerize it, setup VSCode debugger and improve your knowledge of the language.</description>
     </item>
-    
     <item>
       <title>Links 21-10-21</title>
       <link>https://gobunov.com/posts/links-211021/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-211021/</guid>
       <description>Dev 20 things I’ve learned in my 20 years as a software engineer &amp;ndash; You’re about to read a blog post with a lot of advice. Learning from those who came before us is instrumental to success, but we often forget an important caveat. Almost all advice is contextual, yet it is rarely delivered with any context. Ops Tools to explore BGP &amp;ndash; Yesterday there was a big Facebook outage caused by BGP.</description>
     </item>
-    
     <item>
       <title>Links 21-09-21</title>
       <link>https://gobunov.com/posts/links-210921/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210921/</guid>
-      <description>Dev B-Trees: More than I thought I&amp;rsquo;d want to know &amp;ndash; Recently, I’ve been reading through the excellent Database Internals (Alex Petrov, 2019). The first half of the book is dedicated to the implementation of database storage engines – the subsystem(s) of a DBMS that handles long-term persistence of data. A surprising amount of this section discusses the implementation and optimization of various B-Tree data structures.
-How writing can advance your career as a developer &amp;ndash; In their ﬁrst few years on the job, engineers spend roughly 30% of their workday writing, while engineers in middle management write for 50% to 70% of their day; those in senior management reportedly spend over 70% and as much as 95% of their day writing.</description>
+      <description>Dev B-Trees: More than I thought I&amp;rsquo;d want to know &amp;ndash; Recently, I’ve been reading through the excellent Database Internals (Alex Petrov, 2019). The first half of the book is dedicated to the implementation of database storage engines – the subsystem(s) of a DBMS that handles long-term persistence of data. A surprising amount of this section discusses the implementation and optimization of various B-Tree data structures.&#xA;How writing can advance your career as a developer &amp;ndash; In their ﬁrst few years on the job, engineers spend roughly 30% of their workday writing, while engineers in middle management write for 50% to 70% of their day; those in senior management reportedly spend over 70% and as much as 95% of their day writing.</description>
     </item>
-    
     <item>
       <title>Links 21-08-21</title>
       <link>https://gobunov.com/posts/links-210821/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210821/</guid>
-      <description>Dev Folk wisdom on visual programming &amp;ndash; Brought to you by Hacker News readers.
-Programming language memory models &amp;ndash; “Programming language memory models answer the question of what behaviors parallel programs can rely on to share memory between their threads.” Here’s a look at formalizing programming language memory models from Go language team lead Russ Cox.
-Zip: How not to design a file format &amp;ndash; The Zip file format is now 32 years old.</description>
+      <description>Dev Folk wisdom on visual programming &amp;ndash; Brought to you by Hacker News readers.&#xA;Programming language memory models &amp;ndash; “Programming language memory models answer the question of what behaviors parallel programs can rely on to share memory between their threads.” Here’s a look at formalizing programming language memory models from Go language team lead Russ Cox.&#xA;Zip: How not to design a file format &amp;ndash; The Zip file format is now 32 years old.</description>
     </item>
-    
     <item>
       <title>Links 21-07-21</title>
       <link>https://gobunov.com/posts/links-210721/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210721/</guid>
-      <description>Dev Dates and times in Go &amp;ndash; Keeping track of time in code can be a headache. This tutorial takes a look at managing time in Go.
-New protocol types in Python 3.8 &amp;ndash; The new protocol class in Python 3.8 enables structural typing and other idiomatic patterns in Python. This article explains the protocols and their features.
-7 GitHub projects to make you a better Go Developer &amp;ndash; 7 amazing GitHub projects that will help you become a better Go developer.</description>
+      <description>Dev Dates and times in Go &amp;ndash; Keeping track of time in code can be a headache. This tutorial takes a look at managing time in Go.&#xA;New protocol types in Python 3.8 &amp;ndash; The new protocol class in Python 3.8 enables structural typing and other idiomatic patterns in Python. This article explains the protocols and their features.&#xA;7 GitHub projects to make you a better Go Developer &amp;ndash; 7 amazing GitHub projects that will help you become a better Go developer.</description>
     </item>
-    
     <item>
       <title>Links 21-06-21</title>
       <link>https://gobunov.com/posts/links-210621/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210621/</guid>
-      <description>Dev Best practices for code review &amp;ndash; There’s no such thing as perfect code—that’s why we need code review. But it doesn’t have to be painful.
-Text editing hates you too &amp;ndash; Back in 2017, I was building a rich text editor in the browser. Unsatisfied with existing libraries that used ContentEditable, I thought to myself &amp;ldquo;hey, I&amp;rsquo;ll just reimplement text selection myself! How difficult could it possibly be?&amp;rdquo; I was young.</description>
+      <description>Dev Best practices for code review &amp;ndash; There’s no such thing as perfect code—that’s why we need code review. But it doesn’t have to be painful.&#xA;Text editing hates you too &amp;ndash; Back in 2017, I was building a rich text editor in the browser. Unsatisfied with existing libraries that used ContentEditable, I thought to myself &amp;ldquo;hey, I&amp;rsquo;ll just reimplement text selection myself! How difficult could it possibly be?&amp;rdquo; I was young.</description>
     </item>
-    
     <item>
       <title>Links 21-05-21</title>
       <link>https://gobunov.com/posts/links-210521/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210521/</guid>
       <description>Dev The beauty of programming &amp;ndash; I don’t know how to really explain my fascination with programming, but I’ll try. To somebody who does it, it’s the most interesting thing in the world. It’s a game much more involved than chess, a game where you can make up your own rules and where the end result is whatever you can make of it. And yet, to the outside, it looks like the most boring thing on Earth.</description>
     </item>
-    
     <item>
       <title>Links 21-04-21</title>
       <link>https://gobunov.com/posts/links-210421/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210421/</guid>
-      <description>Dev Rust and Go: Better together &amp;ndash; If you’re thinking in terms of Rust or Go, you may be missing a pairing of the two that has worked well for companies like Dropbox, Fastly, and Cloudflare. Here’s a look at the pros and cons of Rust and Go, how they complement each other, and when each language is more appropriate. [#golang,#rust]
-Safe Systems Programming in Rust &amp;ndash; Rust overcomes the trade-off between the safety of higher-level languages and the control over resource management provided by lower-level systems programming languages.</description>
+      <description>Dev Rust and Go: Better together &amp;ndash; If you’re thinking in terms of Rust or Go, you may be missing a pairing of the two that has worked well for companies like Dropbox, Fastly, and Cloudflare. Here’s a look at the pros and cons of Rust and Go, how they complement each other, and when each language is more appropriate. [#golang,#rust]&#xA;Safe Systems Programming in Rust &amp;ndash; Rust overcomes the trade-off between the safety of higher-level languages and the control over resource management provided by lower-level systems programming languages.</description>
     </item>
-    
     <item>
       <title>Links 21-03-30</title>
       <link>https://gobunov.com/posts/links-210330/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210330/</guid>
-      <description>Dev Go may be simple. But it’s not easy. &amp;ndash; The syntax is simple. Most of the semantics are simple. But getting something done can sometimes be deceptively hard. Martin Tournoij takes a look at the not-so-easy parts of Go (and what you can do about them). [#golang]
-3 mindsets to avoid as a senior software developer &amp;ndash; I’m a self-taught programmer, and I need no one. I’m better than younger programmers.</description>
+      <description>Dev Go may be simple. But it’s not easy. &amp;ndash; The syntax is simple. Most of the semantics are simple. But getting something done can sometimes be deceptively hard. Martin Tournoij takes a look at the not-so-easy parts of Go (and what you can do about them). [#golang]&#xA;3 mindsets to avoid as a senior software developer &amp;ndash; I’m a self-taught programmer, and I need no one. I’m better than younger programmers.</description>
     </item>
-    
     <item>
       <title>Links 21-03-01</title>
       <link>https://gobunov.com/posts/links-210301/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210301/</guid>
       <description>Dev Why is it so hard to see code from 5 minutes ago? &amp;ndash; A study found that Java developers backtracked every 6 minutes, meaning they reverted their code to a previous state (e.g., by clicking undo or pressing Ctrl-Z). These undo actions come in bursts and are often followed by successive redo actions. In fact, one participant in a different study used undo/redo 40 times in 5 minutes! When asked why they did this, they revealed they were trying to view some intermediate state of the code in the middle of a change.</description>
     </item>
-    
     <item>
       <title>Links 21-02-10</title>
       <link>https://gobunov.com/posts/links-210210/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210210/</guid>
-      <description>Dev Directory of Pragmatic Programmer Books on Medium &amp;ndash; Below is content you know and love from the Pragmatic Bookshelf, optimized for learning and enjoyment on the Medium platform.
-Unsafe Rust (and when to use it) &amp;ndash; Rust contributor Andre Bogus explains unsafe Rust, dissects some of the myths that have built up around it, and provides advice on when to use it (and when not to).
-Python tricks I can’t live without &amp;ndash; Sebastian Opałczyński offers up the code fragments he finds himself using again and again.</description>
+      <description>Dev Directory of Pragmatic Programmer Books on Medium &amp;ndash; Below is content you know and love from the Pragmatic Bookshelf, optimized for learning and enjoyment on the Medium platform.&#xA;Unsafe Rust (and when to use it) &amp;ndash; Rust contributor Andre Bogus explains unsafe Rust, dissects some of the myths that have built up around it, and provides advice on when to use it (and when not to).&#xA;Python tricks I can’t live without &amp;ndash; Sebastian Opałczyński offers up the code fragments he finds himself using again and again.</description>
     </item>
-    
     <item>
       <title>Links 21-02-01</title>
       <link>https://gobunov.com/posts/links-210201/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210201/</guid>
-      <description>Dev 10 Advanced Projects to Build in 2021 &amp;ndash; curated a list of 10 advanced projects to complete in 2021. Most of these are systems programming projects, but there are a few other AI and networking projects in the list.
-Functional Programming as Algebra &amp;ndash; Let’s return to everyone’s “favorite” subject. 🙄
-How to become a more efficient Python programmer &amp;ndash; If you want to write the most readable and computationally efficient code, this tutorial shows you the best ways to create lists and accomplish other tasks in Python.</description>
+      <description>Dev 10 Advanced Projects to Build in 2021 &amp;ndash; curated a list of 10 advanced projects to complete in 2021. Most of these are systems programming projects, but there are a few other AI and networking projects in the list.&#xA;Functional Programming as Algebra &amp;ndash; Let’s return to everyone’s “favorite” subject. 🙄&#xA;How to become a more efficient Python programmer &amp;ndash; If you want to write the most readable and computationally efficient code, this tutorial shows you the best ways to create lists and accomplish other tasks in Python.</description>
     </item>
-    
     <item>
       <title>Links 21-01-21</title>
       <link>https://gobunov.com/posts/links-210121/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210121/</guid>
-      <description>Dev The Five Books that Changed my Life as a Software Engineer &amp;ndash; The five books that have had the biggest impact on one dev community.
-RESTful API Design: Best Practices &amp;ndash; Some community-recommended best practices to follow while designing and developing RESTful APIs.
-State machines are wonderful tools &amp;ndash; State machines are perhaps one of those concepts you heard about in college but never put into practice. Maybe you use them regularly.</description>
+      <description>Dev The Five Books that Changed my Life as a Software Engineer &amp;ndash; The five books that have had the biggest impact on one dev community.&#xA;RESTful API Design: Best Practices &amp;ndash; Some community-recommended best practices to follow while designing and developing RESTful APIs.&#xA;State machines are wonderful tools &amp;ndash; State machines are perhaps one of those concepts you heard about in college but never put into practice. Maybe you use them regularly.</description>
     </item>
-    
     <item>
       <title>Links 21-01-10</title>
       <link>https://gobunov.com/posts/links-210110/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210110/</guid>
-      <description>Dev 65 Things I wish I knew when I started to Code &amp;ndash; If you are a new, aspiring developer, these 65 things will prepare you for the long journey ahead. Use them as a shortcut in your own learning path.
-Server Rendering in JavaScript: Why SSR? &amp;ndash; Server-Side Rendering is all the talk with the JavaScript framework world right now. There are obvious examples like Vercels Next.js which made the news with getting $40M in new funding.</description>
+      <description>Dev 65 Things I wish I knew when I started to Code &amp;ndash; If you are a new, aspiring developer, these 65 things will prepare you for the long journey ahead. Use them as a shortcut in your own learning path.&#xA;Server Rendering in JavaScript: Why SSR? &amp;ndash; Server-Side Rendering is all the talk with the JavaScript framework world right now. There are obvious examples like Vercels Next.js which made the news with getting $40M in new funding.</description>
     </item>
-    
     <item>
       <title>Links 21-01-01</title>
       <link>https://gobunov.com/posts/links-210101/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-210101/</guid>
-      <description>Dev Command Line Interface Guidelines &amp;ndash; An open-source guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. [#cli]
-My Engineering Axioms &amp;ndash; things that, over the years, I&amp;rsquo;ve come to think of as generally true and useful to have in mind when writing code, building things, and working with others.
-Rust Reviewed: Is the hype justified? &amp;ndash; a reflection on golden moments and pain points with Rust in the past year.</description>
+      <description>Dev Command Line Interface Guidelines &amp;ndash; An open-source guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. [#cli]&#xA;My Engineering Axioms &amp;ndash; things that, over the years, I&amp;rsquo;ve come to think of as generally true and useful to have in mind when writing code, building things, and working with others.&#xA;Rust Reviewed: Is the hype justified? &amp;ndash; a reflection on golden moments and pain points with Rust in the past year.</description>
     </item>
-    
     <item>
       <title>Links 20-12-20</title>
       <link>https://gobunov.com/posts/links-201220/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-201220/</guid>
-      <description>Dev Codepath &amp;ndash; fundamental CodePath Computer Science guides on data structures, algorithms and technical interviewing!
-5 Podcasts Every Dev Must Listen To &amp;ndash; A list of technical podcasts that are meant to inspire and help educate developers.
-5 Ways Software Developers Can Improve Their Writing Beyond Blogging &amp;ndash; business writing.
-Writing a Book with Pandoc, Make, and Vim &amp;ndash; book-writing setup using Pandoc, vim, makefile, plus Preview app on macOS.</description>
+      <description>Dev Codepath &amp;ndash; fundamental CodePath Computer Science guides on data structures, algorithms and technical interviewing!&#xA;5 Podcasts Every Dev Must Listen To &amp;ndash; A list of technical podcasts that are meant to inspire and help educate developers.&#xA;5 Ways Software Developers Can Improve Their Writing Beyond Blogging &amp;ndash; business writing.&#xA;Writing a Book with Pandoc, Make, and Vim &amp;ndash; book-writing setup using Pandoc, vim, makefile, plus Preview app on macOS.</description>
     </item>
-    
     <item>
       <title>Links 20-12-12</title>
       <link>https://gobunov.com/posts/links-201212/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-201212/</guid>
-      <description>Dev An ex-Googler&amp;rsquo;s guide to dev tools &amp;ndash; Many years ago, I did a brief stint at Google. A lot has changed since then, but even that brief exposure to Google&amp;rsquo;s internal developer tools left a lasting impression on me. In many ways, the dev tools inside Google are the most advanced in the world.
-Exotic Programming Ideas: Effect Systems &amp;ndash; Continuing on in our series on exotic programming ideas, we’re going to explore the topic of effects.</description>
+      <description>Dev An ex-Googler&amp;rsquo;s guide to dev tools &amp;ndash; Many years ago, I did a brief stint at Google. A lot has changed since then, but even that brief exposure to Google&amp;rsquo;s internal developer tools left a lasting impression on me. In many ways, the dev tools inside Google are the most advanced in the world.&#xA;Exotic Programming Ideas: Effect Systems &amp;ndash; Continuing on in our series on exotic programming ideas, we’re going to explore the topic of effects.</description>
     </item>
-    
     <item>
       <title>Links 20-11-11</title>
       <link>https://gobunov.com/posts/links-201111/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-201111/</guid>
-      <description>Dev Rust vs Go &amp;ndash; Both Go, and more recently Rust, are increasingly popular for infrastructure tooling. This post has a nice comparison of the languages, looking at the main similarities and differences. [#go]
-Hands-free coding &amp;ndash; Here’s how Josh Comeau develops software using dictation and eye tracking. [#dictation]
-Architecture Playbook &amp;ndash; Smart people have been thinking on how to create IT architectures as long as there has been computers. Ideas come and go, however creating a good architectures can still be complex and time consuming.</description>
+      <description>Dev Rust vs Go &amp;ndash; Both Go, and more recently Rust, are increasingly popular for infrastructure tooling. This post has a nice comparison of the languages, looking at the main similarities and differences. [#go]&#xA;Hands-free coding &amp;ndash; Here’s how Josh Comeau develops software using dictation and eye tracking. [#dictation]&#xA;Architecture Playbook &amp;ndash; Smart people have been thinking on how to create IT architectures as long as there has been computers. Ideas come and go, however creating a good architectures can still be complex and time consuming.</description>
     </item>
-    
     <item>
       <title>Links 20-08-08</title>
       <link>https://gobunov.com/posts/links-200808/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-200808/</guid>
-      <description>Dev StackOverflow’s 2020 developer survey. [#survey]
-The least liked programming languages &amp;ndash; Why are they so dreaded? And are they being evaluated fairly? [#languages]
-Go versus Rust: Writing a CLI tool &amp;ndash; Want to test your skills? Try implementing a CLI tool in more than one language. Paulo Henrique Cuchi used Rust (source) and Go (source) and describes his process in this tutorial. [#cli]
-How to package Python apps with BeeWare Briefcase &amp;ndash; Unlike other languages like Rust or Go, Python doesn’t have a consistent internal mechanism for generating a stand-alone binary from an application.</description>
+      <description>Dev StackOverflow’s 2020 developer survey. [#survey]&#xA;The least liked programming languages &amp;ndash; Why are they so dreaded? And are they being evaluated fairly? [#languages]&#xA;Go versus Rust: Writing a CLI tool &amp;ndash; Want to test your skills? Try implementing a CLI tool in more than one language. Paulo Henrique Cuchi used Rust (source) and Go (source) and describes his process in this tutorial. [#cli]&#xA;How to package Python apps with BeeWare Briefcase &amp;ndash; Unlike other languages like Rust or Go, Python doesn’t have a consistent internal mechanism for generating a stand-alone binary from an application.</description>
     </item>
-    
     <item>
       <title>Links 20-07-31</title>
       <link>https://gobunov.com/posts/links-200731/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://gobunov.com/posts/links-200731/</guid>
-      <description>Dev 5 Python features you (probably) didn’t know Here’s a look at a few less common, but useful, features.
-Go is boring (and that’s fantastic):
-“If you look at the past 10 years in programming languages, you’ll see lots of changes. C++, Java, Python, and JavaScript have gained new features, and new languages like Rust and Swift have changed rapidly since their introduction. This is all pretty exciting but it also feels like sometimes you can never catch up with all the ideas in all these languages.</description>
+      <description>Dev 5 Python features you (probably) didn’t know Here’s a look at a few less common, but useful, features.&#xA;Go is boring (and that’s fantastic):&#xA;“If you look at the past 10 years in programming languages, you’ll see lots of changes. C++, Java, Python, and JavaScript have gained new features, and new languages like Rust and Swift have changed rapidly since their introduction. This is all pretty exciting but it also feels like sometimes you can never catch up with all the ideas in all these languages.</description>
     </item>
-    
   </channel>
 </rss>

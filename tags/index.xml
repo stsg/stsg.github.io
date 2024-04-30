@@ -4,116 +4,100 @@
     <title>Tags on Stanislav Gobunov</title>
     <link>https://gobunov.com/tags/</link>
     <description>Recent content in Tags on Stanislav Gobunov</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gobunov.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gobunov.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cli</title>
+      <title>Text</title>
+      <link>https://gobunov.com/tags/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gobunov.com/tags/text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cli</title>
       <link>https://gobunov.com/tags/cli/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/cli/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dev</title>
+      <title>Dev</title>
       <link>https://gobunov.com/tags/dev/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/dev/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>go</title>
+      <title>Go</title>
       <link>https://gobunov.com/tags/go/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/go/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>links</title>
+      <title>Links</title>
       <link>https://gobunov.com/tags/links/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/links/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>misc</title>
+      <title>Misc</title>
       <link>https://gobunov.com/tags/misc/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/misc/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>news</title>
+      <title>News</title>
       <link>https://gobunov.com/tags/news/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/news/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ops</title>
+      <title>Ops</title>
       <link>https://gobunov.com/tags/ops/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/ops/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rust</title>
+      <title>Rust</title>
       <link>https://gobunov.com/tags/rust/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/rust/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>about</title>
+      <title>About</title>
       <link>https://gobunov.com/tags/about/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/about/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>job</title>
+      <title>Job</title>
       <link>https://gobunov.com/tags/job/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/job/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>linux</title>
+      <title>Linux</title>
       <link>https://gobunov.com/tags/linux/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/linux/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>search</title>
+      <title>Search</title>
       <link>https://gobunov.com/tags/search/</link>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gobunov.com/tags/search/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
