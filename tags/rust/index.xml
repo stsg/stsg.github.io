@@ -6,8 +6,15 @@
     <description>Recent content in Rust on Stanislav Gobunov</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gobunov.com/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links 24-05-09</title>
+      <link>https://gobunov.com/posts/links-240509/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://gobunov.com/posts/links-240509/</guid>
+      <description>Dev Top 50 System Design Interview Questions for 2024 &amp;ndash; System design interviews have become a crucial component in evaluating a candidate&amp;rsquo;s capacity to solve real-world challenges, assess trade-offs, and design systems that can handle complex requirements.&#xA;Go size analyzer &amp;ndash; A simple tool to analyze the size of a Go compiled binary.&#xA;Ops bumblebee-status &amp;ndash; modular, theme-able status line generator for the i3 window manager.&#xA;Focus is on:&#xA;ease of use, sane defaults (no mandatory configuration file) easy creation of custom themes easy creation of custom modules Awesome DevOps Telegram &amp;ndash; A curated list of public Telegram channels and groups (chats) dedicated to DevOps, SRE, and Platform Engineering.</description>
+    </item>
     <item>
       <title>Links 24-01-07</title>
       <link>https://gobunov.com/posts/links-240124/</link>
